@@ -2,6 +2,8 @@
   "name": "test-vk-app",
   "version": "0.1.0",
   "description": "",
+  "private": true,
+  "homepage": "http://alexey-avdeev.com/test-vk-app/build/",
   "main": "index.js",
   "repository": "git@github.com:avdeev/test-vk-app.git",
   "author": "",
